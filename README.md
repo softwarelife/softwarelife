@@ -31,6 +31,5 @@
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=softwarelife&theme=dark&dates=00e673)
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=softwarelife&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
